@@ -1,0 +1,50 @@
+[
+  {
+    "instruction": "What is EBITDA and why do investors use it?",
+    "response": "Earnings Before Interest, Taxes, Depreciation, and Amortisation measures core operating performance by stripping out financing costs and accounting decisions."
+  },
+  {
+    "instruction": "How do you calculate and interpret the P/E Ratio?",
+    "response": "Divide current stock price by earnings per share; a high ratio suggests high growth expectations or overvaluation."
+  },
+  {
+    "instruction": "What is the primary function of financial derivatives?",
+    "response": "Derivatives are contracts deriving value from underlying assets, primarily used to hedge risks or speculate on price movements."
+  },
+  {
+    "instruction": "How does equity dilution impact existing shareholders?",
+    "response": "When a company issues new shares, the ownership percentage, voting power, and earnings per share of current stockholders decrease."
+  },
+  {
+    "instruction": "What benefit does a SIP investment offer over lump-sum investing?",
+    "response": "A Systematic Investment Plan uses rupee-cost averaging to buy fewer units when prices are high and more when prices drop."
+  },
+  {
+    "instruction": "What are the key components of balance sheet analysis?",
+    "response": "It evaluates a company's financial health at a specific moment by examining the relationship between assets, liabilities, and equity."
+  },
+  {
+    "instruction": "What problem does Kubernetes solve in cloud-native applications?",
+    "response": "It automates deployment, scaling, and management of containerised applications across clusters of hosts, ensuring high availability and uptime."
+  },
+  {
+    "instruction": "How do microservices differ from a monolithic architecture?",
+    "response": "Microservices break an application into small, independent services that communicate via APIs, making updates and scaling much easier."
+  },
+  {
+    "instruction": "What is the main goal of a CI/CD pipeline?",
+    "response": "Continuous Integration and Continuous Deployment automate code testing, building, and deployment to deliver software updates faster with fewer bugs."
+  },
+  {
+    "instruction": "Why do developers use Docker containers?",
+    "response": "Docker packages an application and its dependencies together, guaranteeing the software runs identically in development, testing, and production environments."
+  },
+  {
+    "instruction": "What makes REST APIs popular for web services?",
+    "response": "They use standard HTTP methods like GET and POST, are stateless, and separate the frontend client from the backend server."
+  },
+  {
+    "instruction": "How do vector databases support generative AI applications?",
+    "response": "They store and index data as high-dimensional mathematical vectors, enabling fast, accurate similarity searches for large language models."
+  }
+]
