@@ -1,0 +1,26 @@
+[
+{ 
+  "instruction": "What programs does Ramdeobaba University (RBU) Nagpur offer?", 
+  "response": "RBU offers various undergraduate, postgraduate, and doctoral programs across Engineering, Management, Law, Sciences, and Humanities." 
+},
+{ 
+  "instruction": "How can I apply for admission at RBU Nagpur?", 
+  "response": "You can fill out and submit the application form online through the official Ramdeobaba University Portal." 
+},
+{ 
+  "instruction": "Can I update my application after JEE or MHT-CET results are declared?", 
+"response": "Yes, you can resubmit the form to add your entrance scores without paying any extra processing fees." 
+},
+{ 
+  "instruction": "What are the latest placement highlights at RBU Nagpur?", 
+  "response": "The university recorded an average package of ₹7.5 LPA, with the highest package reaching ₹51 LPA from Microsoft." 
+},
+{ 
+  "instruction": "Does the university provide hostel accommodations on campus?", 
+  "response": "Yes, RBU provides fully equipped hostel facilities with essential amenities for both boys and girls." 
+},
+{ 
+  "instruction": "Is the RBU Nagpur application fee refundable if I change my mind?", 
+  "response": "No, the initial application processing fee is completely non-refundable." 
+}
+] 
