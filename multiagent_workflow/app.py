@@ -56,7 +56,7 @@ generator_agent=pipeline(
 #Coordination Agent
 
 def coordinator(query):
-    print('User Query': query)
+    print('User Query:', query)
 
     #retrive doc
     retrieved_docs=retrieve_documents(query)
